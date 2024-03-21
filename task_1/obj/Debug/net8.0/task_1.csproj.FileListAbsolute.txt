@@ -12,3 +12,4 @@ E:\PROGRAMAREA\GIT\lesson02\task_1\obj\Debug\net8.0\refint\task_1.dll
 E:\PROGRAMAREA\GIT\lesson02\task_1\obj\Debug\net8.0\task_1.pdb
 E:\PROGRAMAREA\GIT\lesson02\task_1\obj\Debug\net8.0\task_1.genruntimeconfig.cache
 E:\PROGRAMAREA\GIT\lesson02\task_1\obj\Debug\net8.0\ref\task_1.dll
+E:\PROGRAMAREA\GIT\lesson02\task_1\obj\Debug\net8.0\task_1.sourcelink.json
